@@ -1,3 +1,11 @@
+This is a little movie app made as a project for the final meetup of DevCtraining of the Font-End Web Development with Facebook and openClassrooms.
+I used the the bootstrap and reactstrap librairies using this command " npm i bootstrap reactstrap" 
+Feel free to contribute for this project.
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
